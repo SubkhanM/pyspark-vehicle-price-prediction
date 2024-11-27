@@ -6,7 +6,7 @@ This project involves analyzing and building a predictive model for vehicle pric
 The goal is to perform data analysis, preprocessing, and train a machine learning model to predict vehicle prices based on given attributes.  
 
 ## 📊 Analysis Goals  
-The project focuses on the following tasks:  
+The project focuses on the following tasks :  
 
 1. **Data Exploration and Cleaning**  
    - Identify missing or inconsistent values.  
